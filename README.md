@@ -1,4 +1,4 @@
-```ts
+```typescript
 import Developer from 'muzkle';
 
 class AboutMe extends Developer {
