@@ -16,3 +16,5 @@ class Skills extends Developer {
   cloudComputing  = ['AWS', 'Azure', 'Digital Ocean'];
 }
 ```
+
+[![Muzkle's Github Stats](https://github-readme-stats.vercel.app/api?username=muzkle&theme=react)]
