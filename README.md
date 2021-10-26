@@ -17,4 +17,4 @@ class Skills extends Developer {
 }
 ```
 
-[![Muzkle's Github Stats](https://github-readme-stats.vercel.app/api?username=muzkle&theme=react)]
+![Muzkle's Github Stats](https://github-readme-stats.vercel.app/api?username=muzkle&theme=react)
