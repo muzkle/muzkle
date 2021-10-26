@@ -2,10 +2,10 @@
 import Developer from 'muzkle';
 
 class AboutMe extends Developer {
-  name     = 'William Xavier';
-  area     = 'Analista de Sistemas Sênior';
-  work     = 'Sem Parar Empresas';
-  local    = 'Brasil';
+  name  = 'William Xavier';
+  area  = 'Analista de Sistemas Sênior';
+  work  = 'Sem Parar Empresas';
+  local = 'Brasil';
 }
 
 class Skills extends Developer {
